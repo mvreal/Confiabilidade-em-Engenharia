@@ -1,0 +1,52 @@
+2021-07-20 19:25:05: -- Analysis Started by Analyze And Sync All
+2021-07-20 19:25:05: L: State file does not exist: F:/CE/_gsdata_/_file_state_v4._gs
+2021-07-20 19:25:05: /Capítulo 1.ppt: Conflict: New files that differ
+2021-07-20 19:25:05: /images/channel-tunnel.jpg: Conflict: New files that differ
+2021-07-20 19:25:05: /images/ensaio_compressão.jpg: Conflict: New files that differ
+2021-07-20 19:25:05: /images/ponte_estaiada.jpg: Conflict: New files that differ
+2021-07-20 19:25:05: /images/three_gorges_dam.jpg: Conflict: New files that differ
+2021-07-20 19:25:05: Analyze has finished with Conflicts. Resolve Conflicts by selecting the correct sync direction, then click Sync
+2021-07-20 19:25:05: Changes: 19, Conflicts: 5, CopyTime: 0, CopyState: 25/0, Errors: 0, All: 46
+2021-07-20 19:25:05: Left to Right: Copy File: 8 
+2021-07-20 19:25:05: Right to Left: Copy File: 6 Copy State: 25 
+2021-07-20 19:25:05: == Sync Started by Analyze And Sync All
+2021-07-20 19:25:05: Copy New 'F:/CE/.ipynb_checkpoints/Capitulo_1-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Capitulo_1-checkpoint.ipynb'
+2021-07-20 19:25:05: Copy New 'Q:/CEO/.ipynb_checkpoints/Capítulo_1-checkpoint.ipynb' -> 'F:/CE/.ipynb_checkpoints/Capítulo_1-checkpoint.ipynb'
+2021-07-20 19:25:05: Copy New 'F:/CE/.ipynb_checkpoints/Untitled-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Untitled-checkpoint.ipynb'
+2021-07-20 19:25:05: Copy New 'F:/CE/.ipynb_checkpoints/Untitled1-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Untitled1-checkpoint.ipynb'
+2021-07-20 19:25:05: Copy New 'F:/CE/Capitulo_1.ipynb' -> 'Q:/CEO/Capitulo_1.ipynb'
+2021-07-20 19:25:05: /Capítulo 1.ppt: unresolved conflict results in No Copy
+2021-07-20 19:25:05: Copy New 'Q:/CEO/Capítulo_1.ipynb' -> 'F:/CE/Capítulo_1.ipynb'
+2021-07-20 19:25:05: Copy New 'Q:/CEO/image.html' -> 'F:/CE/image.html'
+2021-07-20 19:25:05: /images/channel-tunnel.jpg: unresolved conflict results in No Copy
+2021-07-20 19:25:05: /images/ensaio_compressão.jpg: unresolved conflict results in No Copy
+2021-07-20 19:25:05: Copy New 'F:/CE/images/hidreletrica_itaipu.jpg' -> 'Q:/CEO/images/hidreletrica_itaipu.jpg'
+2021-07-20 19:25:05: Copy New 'Q:/CEO/images/hidrelétrica_itaipu.jpg' -> 'F:/CE/images/hidrelétrica_itaipu.jpg'
+2021-07-20 19:25:05: /images/ponte_estaiada.jpg: unresolved conflict results in No Copy
+2021-07-20 19:25:05: Copy New 'F:/CE/images/ponte_rio-niteroi.jpg' -> 'Q:/CEO/images/ponte_rio-niteroi.jpg'
+2021-07-20 19:25:05: Copy New 'Q:/CEO/images/ponte_rio-niterói.jpg' -> 'F:/CE/images/ponte_rio-niterói.jpg'
+2021-07-20 19:25:05: /images/three_gorges_dam.jpg: unresolved conflict results in No Copy
+2021-07-20 19:25:05: Copy New 'F:/CE/images/viaduto_do_exercito.jpg' -> 'Q:/CEO/images/viaduto_do_exercito.jpg'
+2021-07-20 19:25:05: Copy New 'Q:/CEO/images/viaduto_do_exército.jpg' -> 'F:/CE/images/viaduto_do_exército.jpg'
+2021-07-20 19:25:05: Copy New 'F:/CE/README.md' -> 'Q:/CEO/README.md'
+2021-07-20 19:25:05: == Sync Complete. Time: 00:00:00, Speed: 0 bytes/s, OK: 39, Errors: 0, Conflicts: 5
+2021-07-20 19:25:05: 
+2021-07-20 19:25:10: === User Changed Action from 'CONFLICT' to 'COPY_LEFT_TO_RIGHT' on item /Capítulo 1.ppt
+2021-07-20 19:25:10: Done.
+2021-07-20 19:25:11: === User Changed Action from 'CONFLICT' to 'COPY_LEFT_TO_RIGHT' on item /images/channel-tunnel.jpg
+2021-07-20 19:25:11: Done.
+2021-07-20 19:25:12: === User Changed Action from 'CONFLICT' to 'COPY_LEFT_TO_RIGHT' on item /images/ensaio_compressão.jpg
+2021-07-20 19:25:12: Done.
+2021-07-20 19:25:13: === User Changed Action from 'CONFLICT' to 'COPY_LEFT_TO_RIGHT' on item /images/ponte_estaiada.jpg
+2021-07-20 19:25:13: Done.
+2021-07-20 19:25:14: Done.
+2021-07-20 19:25:16: === User Changed Action from 'CONFLICT' to 'COPY_LEFT_TO_RIGHT' on item /images/three_gorges_dam.jpg
+2021-07-20 19:25:16: Done.
+2021-07-20 19:25:23: == Sync Started by User
+2021-07-20 19:25:24: Copy Over 'F:/CE/Capítulo 1.ppt' -> 'Q:/CEO/Capítulo 1.ppt' (User Action)
+2021-07-20 19:25:24: Copy Over 'F:/CE/images/channel-tunnel.jpg' -> 'Q:/CEO/images/channel-tunnel.jpg' (User Action)
+2021-07-20 19:25:24: Copy Over 'F:/CE/images/ensaio_compressão.jpg' -> 'Q:/CEO/images/ensaio_compressão.jpg' (User Action)
+2021-07-20 19:25:25: Copy Over 'F:/CE/images/ponte_estaiada.jpg' -> 'Q:/CEO/images/ponte_estaiada.jpg' (User Action)
+2021-07-20 19:25:25: Copy Over 'F:/CE/images/three_gorges_dam.jpg' -> 'Q:/CEO/images/three_gorges_dam.jpg' (User Action)
+2021-07-20 19:25:25: == Sync Complete. Time: 00:00:02, Speed: 12.5 MB/s, OK: 5, Errors: 0
+2021-07-20 19:25:25: 
