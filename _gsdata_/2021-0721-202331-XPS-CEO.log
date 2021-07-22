@@ -1,0 +1,17 @@
+2021-07-21 20:23:31: -- Analysis Started by Analyze And Sync All
+2021-07-21 20:23:31: Changes: 11, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 52
+2021-07-21 20:23:31: Left to Right: Copy File: 10 Delete File: 1 
+2021-07-21 20:23:31: == Sync Started by Analyze And Sync All
+2021-07-21 20:23:31: Delete File 'Q:/CEO/images/ponte_rio-niterói.jpg'
+2021-07-21 20:23:31: Copy Over 'F:/CE/.ipynb_checkpoints/Capitulo_1-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Capitulo_1-checkpoint.ipynb'
+2021-07-21 20:23:31: Copy Over 'F:/CE/Capitulo_1.ipynb' -> 'Q:/CEO/Capitulo_1.ipynb'
+2021-07-21 20:23:32: Copy Over 'F:/CE/Capítulo 1.ppt' -> 'Q:/CEO/Capítulo 1.ppt'
+2021-07-21 20:23:32: Copy New 'F:/CE/images/demanda_capacidade.jpg' -> 'Q:/CEO/images/demanda_capacidade.jpg'
+2021-07-21 20:23:32: Copy New 'F:/CE/images/engineering_design.jpg' -> 'Q:/CEO/images/engineering_design.jpg'
+2021-07-21 20:23:32: Copy New 'F:/CE/images/exemplos_confiabilidade.jpg' -> 'Q:/CEO/images/exemplos_confiabilidade.jpg'
+2021-07-21 20:23:32: Copy Over 'F:/CE/images/modelo_navio_ondas.jpg' -> 'Q:/CEO/images/modelo_navio_ondas.jpg'
+2021-07-21 20:23:32: Copy New 'F:/CE/images/pdf_S_R.jpg' -> 'Q:/CEO/images/pdf_S_R.jpg'
+2021-07-21 20:23:32: Copy New 'F:/CE/images/problema_da_confiabilidade.jpg' -> 'Q:/CEO/images/problema_da_confiabilidade.jpg'
+2021-07-21 20:23:32: Copy New 'F:/CE/images/seta_para_baixo.jpg' -> 'Q:/CEO/images/seta_para_baixo.jpg'
+2021-07-21 20:23:32: == Sync Complete. Time: 00:00:01, Speed: 25.5 MB/s, OK: 11, Errors: 0
+2021-07-21 20:23:32: 
