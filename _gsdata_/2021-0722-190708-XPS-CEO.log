@@ -1,0 +1,22 @@
+2021-07-22 19:07:08: -- Analysis Started by Analyze And Sync All
+2021-07-22 19:07:08: Changes: 16, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 63
+2021-07-22 19:07:08: Left to Right: Copy File: 13 Delete File: 3 
+2021-07-22 19:07:08: == Sync Started by Analyze And Sync All
+2021-07-22 19:07:08: Delete File 'Q:/CEO/images/fc_estacas_porto_rg.jpg'
+2021-07-22 19:07:08: Delete File 'Q:/CEO/images/fck_fcm.jpg'
+2021-07-22 19:07:08: Delete File 'Q:/CEO/images/viaduto_do_exército.jpg'
+2021-07-22 19:07:08: Copy Over 'F:/CE/.ipynb_checkpoints/Capitulo_1-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Capitulo_1-checkpoint.ipynb'
+2021-07-22 19:07:08: Copy Over 'F:/CE/Capitulo_1.ipynb' -> 'Q:/CEO/Capitulo_1.ipynb'
+2021-07-22 19:07:09: Copy Over 'F:/CE/Capítulo 1.ppt' -> 'Q:/CEO/Capítulo 1.ppt'
+2021-07-22 19:07:09: Copy New 'F:/CE/images/afastamento.jpg' -> 'Q:/CEO/images/afastamento.jpg'
+2021-07-22 19:07:09: Copy New 'F:/CE/images/beta.jpg' -> 'Q:/CEO/images/beta.jpg'
+2021-07-22 19:07:09: Copy New 'F:/CE/images/beta_geometric.jpg' -> 'Q:/CEO/images/beta_geometric.jpg'
+2021-07-22 19:07:09: Copy New 'F:/CE/images/beta_pf.jpg' -> 'Q:/CEO/images/beta_pf.jpg'
+2021-07-22 19:07:09: Copy New 'F:/CE/images/dispersao.jpg' -> 'Q:/CEO/images/dispersao.jpg'
+2021-07-22 19:07:09: Copy New 'F:/CE/images/fc_dique_seco_rg.jpg' -> 'Q:/CEO/images/fc_dique_seco_rg.jpg'
+2021-07-22 19:07:09: Copy New 'F:/CE/images/histograma_fc.JPG' -> 'Q:/CEO/images/histograma_fc.JPG'
+2021-07-22 19:07:09: Copy New 'F:/CE/images/normal_lognormal.jpg' -> 'Q:/CEO/images/normal_lognormal.jpg'
+2021-07-22 19:07:09: Copy New 'F:/CE/images/pdf_m.jpg' -> 'Q:/CEO/images/pdf_m.jpg'
+2021-07-22 19:07:09: Copy New 'F:/CE/images/probabilidade_de_falha.jpg' -> 'Q:/CEO/images/probabilidade_de_falha.jpg'
+2021-07-22 19:07:09: == Sync Complete. Time: 00:00:01, Speed: 25.8 MB/s, OK: 16, Errors: 0
+2021-07-22 19:07:09: 
