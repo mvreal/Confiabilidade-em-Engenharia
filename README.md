@@ -8,4 +8,4 @@
 * Rio Grande - RS - Brasil
 * Este é um projeto ainda em construção.
 
-## [Capítulo 1 - Conceitos fundamentais de confiabilidade]((https://nbviewer.jupyter.org/github.com/mvreal/Confiabilidade-em-Engenharia/blob/master/Capitulo_1.ipynb?flush_cache=true)
+## [Capítulo 1 - Conceitos fundamentais de confiabilidade](https://nbviewer.jupyter.org/github.com/mvreal/Confiabilidade-em-Engenharia/blob/master/Capitulo_1.ipynb?flush_cache=true)
