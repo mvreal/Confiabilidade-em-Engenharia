@@ -1,0 +1,10 @@
+2021-07-26 21:52:56: -- Analysis Started by Analyze And Sync All
+2021-07-26 21:52:56: Changes: 5, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 69
+2021-07-26 21:52:56: Left to Right: Copy File: 3 Rename/Move File/Folder: 2 
+2021-07-26 21:52:56: == Sync Started by Analyze And Sync All
+2021-07-26 21:52:56: Copy Over 'F:/CE/.ipynb_checkpoints/Capitulo_1-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Capitulo_1-checkpoint.ipynb'
+2021-07-26 21:52:56: Copy Over 'F:/CE/Capitulo_1.ipynb' -> 'Q:/CEO/Capitulo_1.ipynb'
+2021-07-26 21:52:57: Copy Over 'F:/CE/Capítulo 1.ppt' -> 'Q:/CEO/Capítulo 1.ppt'
+2021-07-26 21:52:57: Move File Q:/CEO/images/histograma_fc.JPG -> Q:/CEO/images/histograma.JPG
+2021-07-26 21:52:57: == Sync Complete. Time: 00:00:01, Speed: 29.9 MB/s, OK: 5, Errors: 0
+2021-07-26 21:52:57: 
