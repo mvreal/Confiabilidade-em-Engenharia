@@ -1,0 +1,6 @@
+2021-07-27 20:07:33: -- Analysis Started by Analyze And Sync All
+2021-07-27 20:07:33: Changes: 107, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 121
+2021-07-27 20:07:33: Left to Right: Copy File: 8 Delete File: 3 Rename/Move File/Folder: 96 
+2021-07-27 20:07:33: == Sync Started by Analyze And Sync All
+2021-07-27 20:07:33: 93% (107 / 115) files have changed, more than a threshold of 50%. So the job will not synchronize automatically.
+2021-07-27 20:07:33: 
