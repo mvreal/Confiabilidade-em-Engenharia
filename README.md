@@ -36,4 +36,4 @@
 
 
 
-## [Capítulo 1 - Conceitos fundamentais de confiabilidade](https://mybinder.org/v2/gh/mvreal/Confiabilidade-em-Engenharia/e14456a34bc0fab01ef70fb25a5d90f5f9416471)
+## [Capítulo 1 - Conceitos fundamentais de confiabilidade](https://nbviewer.jupyter.org/github/mvreal/Confiabilidade-em-Engenharia/blob/master/Capitulo_1.ipynb)
