@@ -34,8 +34,34 @@
 * Boletins CEB-FIP (agora fib)
 * Revista IBRACON de Estruturas e Materiais
 
+## __Aula 01__
+
+### [Capítulo 1 - Conceitos fundamentais de confiabilidade](https://nbviewer.jupyter.org/github/mvreal/Confiabilidade-em-Engenharia/blob/master/Capitulo_1-1.ipynb)
+
+#### 1.1 - Introdução: sucessos e desastres na Engenharia
+#### 1.2 - Incertezas na Engenharia
+
+## __Aula 02__
+
+### [Capítulo 1 - Conceitos fundamentais de confiabilidade](https://nbviewer.jupyter.org/github/mvreal/Confiabilidade-em-Engenharia/blob/master/Capitulo_1-2.ipynb)
+
+#### 1.3 - Análise e avaliação da segurança: A Teoria da Confiabilidade
+#### 1.4 - Projeto de sistemas de engenharia com base na  Teoria da Confiabilidade
+#### 1.5 - Exemplo de aplicação: projeto de uma barra de aço tracionada
+#### 1.6 - Observações e conclusões
 
 
-## [Capítulo 1 - Conceitos fundamentais de confiabilidade](https://nbviewer.jupyter.org/github/mvreal/Confiabilidade-em-Engenharia/blob/master/Capitulo_1.ipynb)
+## __Aula 03__
 
-## [Capítulo 2 - Conceitos básicos de probabilidade](https://nbviewer.jupyter.org/github/mvreal/Confiabilidade-em-Engenharia/blob/master/Capitulo_2.ipynb)
+### [Capítulo 2 - Conceitos básicos de probabilidade - Parte 1](https://nbviewer.jupyter.org/github/mvreal/Confiabilidade-em-Engenharia/blob/master/Capitulo_2-1.ipynb)
+
+#### 2.1 - Eventos e probabilidade
+#### 2.2 - Elementos da Teoria dos Conjuntos
+
+
+## __Aula 04__
+
+## [Capítulo 2 - Conceitos básicos de probabilidade - Parte 2](https://nbviewer.jupyter.org/github/mvreal/Confiabilidade-em-Engenharia/blob/master/Capitulo_2-2.ipynb)
+
+#### 2.3 - Matemática da Probabilidade
+#### 2.4 - Observações conclusivas
