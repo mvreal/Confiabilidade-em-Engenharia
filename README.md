@@ -61,7 +61,7 @@
 
 ## __Aula 04__
 
-## [Capítulo 2 - Conceitos básicos de probabilidade - Parte 2](https://nbviewer.jupyter.org/github/mvreal/Confiabilidade-em-Engenharia/blob/master/Capitulo_2-2.ipynb)
+### [Capítulo 2 - Conceitos básicos de probabilidade - Parte 2](https://nbviewer.jupyter.org/github/mvreal/Confiabilidade-em-Engenharia/blob/master/Capitulo_2-2.ipynb)
 
 #### 2.3 - Matemática da Probabilidade
 #### 2.4 - Observações conclusivas
