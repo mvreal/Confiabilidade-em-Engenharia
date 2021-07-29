@@ -37,3 +37,5 @@
 
 
 ## [Capítulo 1 - Conceitos fundamentais de confiabilidade](https://nbviewer.jupyter.org/github/mvreal/Confiabilidade-em-Engenharia/blob/master/Capitulo_1.ipynb)
+
+## [Capítulo 2 - Conceitos básicos de probabilidade](https://nbviewer.jupyter.org/github/mvreal/Confiabilidade-em-Engenharia/blob/master/Capitulo_2.ipynb)
