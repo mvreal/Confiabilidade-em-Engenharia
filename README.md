@@ -65,3 +65,11 @@
 
 #### 2.3 - Matemática da Probabilidade
 #### 2.4 - Observações conclusivas
+
+
+## __Aula 05__
+
+### [Capítulo 3 - Modelos analíticos para fenômenos aleatórios - Parte 1](https://nbviewer.jupyter.org/github/mvreal/Confiabilidade-em-Engenharia/blob/master/Capitulo_3-1.ipynb)
+
+#### 3.1 - Variáveis aleatórias
+
