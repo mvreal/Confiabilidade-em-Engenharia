@@ -1,0 +1,19 @@
+2021-08-03 18:50:14: -- Analysis Started by Analyze And Sync All
+2021-08-03 18:50:15: Changes: 13, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 178
+2021-08-03 18:50:15: Left to Right: Copy File: 13 
+2021-08-03 18:50:15: == Sync Started by Analyze And Sync All
+2021-08-03 18:50:15: Create Folder 'Q:/CEO/images3'
+2021-08-03 18:50:15: Copy New 'F:/CE/.ipynb_checkpoints/Capitulo_3-1-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Capitulo_3-1-checkpoint.ipynb'
+2021-08-03 18:50:15: Copy New 'F:/CE/Capitulo_3-1.ipynb' -> 'Q:/CEO/Capitulo_3-1.ipynb'
+2021-08-03 18:50:15: Copy New 'F:/CE/Capítulo 3.pdf' -> 'Q:/CEO/Capítulo 3.pdf'
+2021-08-03 18:50:15: Copy New 'F:/CE/images3/acidente_navio.jpg' -> 'Q:/CEO/images3/acidente_navio.jpg'
+2021-08-03 18:50:15: Copy New 'F:/CE/images3/continua.jpg' -> 'Q:/CEO/images3/continua.jpg'
+2021-08-03 18:50:15: Copy New 'F:/CE/images3/costa.jpg' -> 'Q:/CEO/images3/costa.jpg'
+2021-08-03 18:50:15: Copy New 'F:/CE/images3/discreta.jpg' -> 'Q:/CEO/images3/discreta.jpg'
+2021-08-03 18:50:15: Copy New 'F:/CE/images3/FMP_FDA_guindastes.jpg' -> 'Q:/CEO/images3/FMP_FDA_guindastes.jpg'
+2021-08-03 18:50:15: Copy New 'F:/CE/images3/good_bad.jpg' -> 'Q:/CEO/images3/good_bad.jpg'
+2021-08-03 18:50:15: Copy New 'F:/CE/images3/guindastes.jpg' -> 'Q:/CEO/images3/guindastes.jpg'
+2021-08-03 18:50:15: Copy New 'F:/CE/images3/variavel_aleatoria.jpg' -> 'Q:/CEO/images3/variavel_aleatoria.jpg'
+2021-08-03 18:50:15: Copy Over 'F:/CE/README.md' -> 'Q:/CEO/README.md'
+2021-08-03 18:50:15: == Sync Complete. Time: 00:00:00, Speed: 0 bytes/s, OK: 13, Errors: 0
+2021-08-03 18:50:15: 
