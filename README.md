@@ -73,7 +73,7 @@
 
 #### 3.1 - Variáveis aleatórias
 
-# __Aula 05__
+## __Aula 06__
 
 ### [Capítulo 3 - Modelos analíticos para fenômenos aleatórios - Parte 2](https://nbviewer.jupyter.org/github/mvreal/Confiabilidade-em-Engenharia/blob/master/Capitulo_3-2.ipynb)
 
