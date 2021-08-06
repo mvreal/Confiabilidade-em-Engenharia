@@ -1,0 +1,25 @@
+2021-08-05 20:24:57: -- Analysis Started by Analyze And Sync All
+2021-08-05 20:24:57: Changes: 19, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 187
+2021-08-05 20:24:57: Left to Right: Copy File: 19 
+2021-08-05 20:24:57: == Sync Started by Analyze And Sync All
+2021-08-05 20:24:57: Copy Over 'F:/CE/.ipynb_checkpoints/Capitulo_1-1-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Capitulo_1-1-checkpoint.ipynb'
+2021-08-05 20:24:57: Copy Over 'F:/CE/.ipynb_checkpoints/Capitulo_1-2-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Capitulo_1-2-checkpoint.ipynb'
+2021-08-05 20:24:57: Copy Over 'F:/CE/.ipynb_checkpoints/Capitulo_2-1-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Capitulo_2-1-checkpoint.ipynb'
+2021-08-05 20:24:57: Copy Over 'F:/CE/.ipynb_checkpoints/Capitulo_2-2-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Capitulo_2-2-checkpoint.ipynb'
+2021-08-05 20:24:57: Copy Over 'F:/CE/.ipynb_checkpoints/Capitulo_3-1-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Capitulo_3-1-checkpoint.ipynb'
+2021-08-05 20:24:57: Copy New 'F:/CE/.ipynb_checkpoints/Capitulo_3-2-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Capitulo_3-2-checkpoint.ipynb'
+2021-08-05 20:24:57: Copy Over 'F:/CE/Capitulo_1-1.ipynb' -> 'Q:/CEO/Capitulo_1-1.ipynb'
+2021-08-05 20:24:57: Copy Over 'F:/CE/Capitulo_1-2.ipynb' -> 'Q:/CEO/Capitulo_1-2.ipynb'
+2021-08-05 20:24:57: Copy Over 'F:/CE/Capitulo_2-1.ipynb' -> 'Q:/CEO/Capitulo_2-1.ipynb'
+2021-08-05 20:24:57: Copy Over 'F:/CE/Capitulo_2-2.ipynb' -> 'Q:/CEO/Capitulo_2-2.ipynb'
+2021-08-05 20:24:57: Copy Over 'F:/CE/Capitulo_3-1.ipynb' -> 'Q:/CEO/Capitulo_3-1.ipynb'
+2021-08-05 20:24:57: Copy New 'F:/CE/Capitulo_3-2.ipynb' -> 'Q:/CEO/Capitulo_3-2.ipynb'
+2021-08-05 20:24:57: Copy Over 'F:/CE/Capítulo 3.pdf' -> 'Q:/CEO/Capítulo 3.pdf'
+2021-08-05 20:24:57: Copy New 'F:/CE/images3/lognormal.jpg' -> 'Q:/CEO/images3/lognormal.jpg'
+2021-08-05 20:24:57: Copy New 'F:/CE/images3/normal1.jpg' -> 'Q:/CEO/images3/normal1.jpg'
+2021-08-05 20:24:57: Copy New 'F:/CE/images3/normal_area.jpg' -> 'Q:/CEO/images3/normal_area.jpg'
+2021-08-05 20:24:57: Copy New 'F:/CE/images3/normal_padronizada.jpg' -> 'Q:/CEO/images3/normal_padronizada.jpg'
+2021-08-05 20:24:57: Copy New 'F:/CE/images3/normal_sigma.jpg' -> 'Q:/CEO/images3/normal_sigma.jpg'
+2021-08-05 20:24:57: Copy Over 'F:/CE/README.md' -> 'Q:/CEO/README.md'
+2021-08-05 20:24:57: == Sync Complete. Time: 00:00:00, Speed: 0 bytes/s, OK: 19, Errors: 0
+2021-08-05 20:24:57: 
