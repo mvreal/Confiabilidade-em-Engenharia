@@ -79,3 +79,9 @@
 
 #### 3.2 - Principais distribuições de probabilidade 
 
+## __Aula 07__
+
+### [Capítulo 3 - Modelos analíticos para fenômenos aleatórios - Parte 3](https://nbviewer.jupyter.org/github/mvreal/Confiabilidade-em-Engenharia/blob/master/Capitulo_3-3.ipynb)
+
+#### 3.3 - Variáveis aleatórias múltiplas
+
