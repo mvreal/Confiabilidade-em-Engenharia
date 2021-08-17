@@ -85,3 +85,11 @@
 
 #### 3.3 - Variáveis aleatórias múltiplas
 
+## __Aula 08__
+
+### [Capítulo 4 - Funções de variáveis aleatórias - Parte 1](https://nbviewer.jupyter.org/github/mvreal/Confiabilidade-em-Engenharia/blob/master/Capitulo_4-1.ipynb)
+
+#### 4.1 - Introdução
+#### 4.2 - Funções de variáveis aleatórias
+
+
