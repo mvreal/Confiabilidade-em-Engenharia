@@ -1,0 +1,15 @@
+2021-08-17 20:36:19: -- Analysis Started by Analyze And Sync All
+2021-08-17 20:36:19: Changes: 9, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 205
+2021-08-17 20:36:19: Left to Right: Copy File: 9 
+2021-08-17 20:36:19: == Sync Started by Analyze And Sync All
+2021-08-17 20:36:19: Copy New 'F:/CE/.ipynb_checkpoints/Capitulo_3-3-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Capitulo_3-3-checkpoint.ipynb'
+2021-08-17 20:36:19: Copy New 'F:/CE/.ipynb_checkpoints/Capitulo_4-1-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Capitulo_4-1-checkpoint.ipynb'
+2021-08-17 20:36:19: Copy New 'F:/CE/Capitulo_3-3.ipynb' -> 'Q:/CEO/Capitulo_3-3.ipynb'
+2021-08-17 20:36:19: Copy New 'F:/CE/Capitulo_4-1.ipynb' -> 'Q:/CEO/Capitulo_4-1.ipynb'
+2021-08-17 20:36:19: Copy New 'F:/CE/images3/coef_correlacao_linear.jpg' -> 'Q:/CEO/images3/coef_correlacao_linear.jpg'
+2021-08-17 20:36:19: Copy New 'F:/CE/images3/fxy.jpg' -> 'Q:/CEO/images3/fxy.jpg'
+2021-08-17 20:36:19: Copy New 'F:/CE/images3/viga_balanco.jpg' -> 'Q:/CEO/images3/viga_balanco.jpg'
+2021-08-17 20:36:19: Copy New 'F:/CE/images3/volume_fxy.jpg' -> 'Q:/CEO/images3/volume_fxy.jpg'
+2021-08-17 20:36:19: Copy Over 'F:/CE/README.md' -> 'Q:/CEO/README.md'
+2021-08-17 20:36:19: == Sync Complete. Time: 00:00:00, Speed: 0 bytes/s, OK: 9, Errors: 0
+2021-08-17 20:36:19: 
