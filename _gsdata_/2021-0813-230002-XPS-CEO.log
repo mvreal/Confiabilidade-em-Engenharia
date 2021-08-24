@@ -1,9 +1,0 @@
-2021-08-13 23:00:02: -- Analysis Started by Analyze And Sync All
-2021-08-13 23:00:02: Changes: 3, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 197
-2021-08-13 23:00:02: Left to Right: Copy File: 3 
-2021-08-13 23:00:02: == Sync Started by Analyze And Sync All
-2021-08-13 23:00:02: Copy Over 'F:/CE/.ipynb_checkpoints/Capitulo_3-2-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Capitulo_3-2-checkpoint.ipynb'
-2021-08-13 23:00:02: Copy Over 'F:/CE/Capitulo_3-2.ipynb' -> 'Q:/CEO/Capitulo_3-2.ipynb'
-2021-08-13 23:00:02: Copy New 'F:/CE/images3/obra_porto.jpg' -> 'Q:/CEO/images3/obra_porto.jpg'
-2021-08-13 23:00:02: == Sync Complete. Time: 00:00:00, Speed: 0 bytes/s, OK: 3, Errors: 0
-2021-08-13 23:00:02: 

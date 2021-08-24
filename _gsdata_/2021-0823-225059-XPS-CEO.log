@@ -1,0 +1,29 @@
+2021-08-23 22:50:59: -- Analysis Started by Analyze And Sync All
+2021-08-23 22:51:00: Changes: 17, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 210
+2021-08-23 22:51:00: Left to Right: Copy File: 17 
+2021-08-23 22:51:00: == Sync Started by Analyze And Sync All
+2021-08-23 22:51:00: Copy Over 'F:/CE/.ipynb_checkpoints/Capitulo_1-1-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Capitulo_1-1-checkpoint.ipynb'
+2021-08-23 22:51:00: Copy Over 'F:/CE/.ipynb_checkpoints/Capitulo_1-2-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Capitulo_1-2-checkpoint.ipynb'
+2021-08-23 22:51:00: Copy Over 'F:/CE/.ipynb_checkpoints/Capitulo_2-1-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Capitulo_2-1-checkpoint.ipynb'
+2021-08-23 22:51:00: Copy Over 'F:/CE/.ipynb_checkpoints/Capitulo_2-2-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Capitulo_2-2-checkpoint.ipynb'
+2021-08-23 22:51:00: Copy Over 'F:/CE/.ipynb_checkpoints/Capitulo_3-1-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Capitulo_3-1-checkpoint.ipynb'
+2021-08-23 22:51:00: Copy Over 'F:/CE/.ipynb_checkpoints/Capitulo_3-2-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Capitulo_3-2-checkpoint.ipynb'
+2021-08-23 22:51:00: Copy Over 'F:/CE/.ipynb_checkpoints/Capitulo_4-1-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Capitulo_4-1-checkpoint.ipynb'
+2021-08-23 22:51:00: Copy Over 'F:/CE/Capitulo_1-1.ipynb' -> 'Q:/CEO/Capitulo_1-1.ipynb'
+2021-08-23 22:51:00: Copy Over 'F:/CE/Capitulo_1-2.ipynb' -> 'Q:/CEO/Capitulo_1-2.ipynb'
+2021-08-23 22:51:00: Copy Over 'F:/CE/Capitulo_2-1.ipynb' -> 'Q:/CEO/Capitulo_2-1.ipynb'
+2021-08-23 22:51:00: Copy Over 'F:/CE/Capitulo_2-2.ipynb' -> 'Q:/CEO/Capitulo_2-2.ipynb'
+2021-08-23 22:51:00: Copy Over 'F:/CE/Capitulo_3-1.ipynb' -> 'Q:/CEO/Capitulo_3-1.ipynb'
+2021-08-23 22:51:00: Copy Over 'F:/CE/Capitulo_3-2.ipynb' -> 'Q:/CEO/Capitulo_3-2.ipynb'
+2021-08-23 22:51:00: Copy Over 'F:/CE/Capitulo_3-3.ipynb' -> 'Q:/CEO/Capitulo_3-3.ipynb'
+2021-08-23 22:51:00: Copy Over 'F:/CE/Capitulo_4-1.ipynb' -> 'Q:/CEO/Capitulo_4-1.ipynb'
+2021-08-23 22:51:00: Copy New 'F:/CE/images4/cargas_pilares.jpg' -> 'Q:/CEO/images4/cargas_pilares.jpg'
+2021-08-23 22:51:00: Copy New 'F:/CE/images4/torre.jpg' -> 'Q:/CEO/images4/torre.jpg'
+2021-08-23 22:51:00: Deleted Recycled: Q:/CEO/_gsdata_/_saved_/images/ponte_rio-niterói.jpg
+2021-08-23 22:51:00: Deleted Recycled: Q:/CEO/_gsdata_/_saved_/images/viaduto_do_exército.jpg
+2021-08-23 22:51:00: Deleted Recycled: Q:/CEO/_gsdata_/_saved_/images/fc_estacas_porto_rg.jpg
+2021-08-23 22:51:00: Deleted Recycled: Q:/CEO/_gsdata_/_saved_/images/histograma_fc.JPG
+2021-08-23 22:51:00: Deleted Recycled: Q:/CEO/_gsdata_/_saved_/images/fck_fcm.jpg
+2021-08-23 22:51:00: Deleted Recycled: Q:/CEO/_gsdata_/_saved_/images/modelo_navio_ondas.jpg
+2021-08-23 22:51:00: == Sync Complete. Time: 00:00:00, Speed: 0 bytes/s, OK: 17, Errors: 0
+2021-08-23 22:51:00: 
