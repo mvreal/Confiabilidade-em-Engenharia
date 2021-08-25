@@ -94,7 +94,7 @@
 
 ## __Aula 09__
 
-### [Capítulo 4 - Funções de variáveis aleatórias - Parte 1](https://nbviewer.jupyter.org/github/mvreal/Confiabilidade-em-Engenharia/blob/master/Capitulo_4-2.ipynb)
+### [Capítulo 4 - Funções de variáveis aleatórias - Parte 2](https://nbviewer.jupyter.org/github/mvreal/Confiabilidade-em-Engenharia/blob/master/Capitulo_4-2.ipynb)
 
 #### 4.3 - Momentos de uma função de variável aleatória
 
