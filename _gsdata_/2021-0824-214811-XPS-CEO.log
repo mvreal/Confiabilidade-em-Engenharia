@@ -1,0 +1,11 @@
+2021-08-24 21:48:12: -- Analysis Started by Analyze And Sync All
+2021-08-24 21:48:12: Changes: 5, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 211
+2021-08-24 21:48:12: Left to Right: Copy File: 4 Delete File: 1 
+2021-08-24 21:48:12: == Sync Started by Analyze And Sync All
+2021-08-24 21:48:12: Delete File 'Q:/CEO/images4/torre.jpg'
+2021-08-24 21:48:12: Copy Over 'F:/CE/.ipynb_checkpoints/Capitulo_4-1-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Capitulo_4-1-checkpoint.ipynb'
+2021-08-24 21:48:12: Copy Over 'F:/CE/Capitulo_4-1.ipynb' -> 'Q:/CEO/Capitulo_4-1.ipynb'
+2021-08-24 21:48:12: Copy Over 'F:/CE/images4/cargas_pilares.jpg' -> 'Q:/CEO/images4/cargas_pilares.jpg'
+2021-08-24 21:48:12: Copy New 'F:/CE/images4/viga_madeira.jpg' -> 'Q:/CEO/images4/viga_madeira.jpg'
+2021-08-24 21:48:12: == Sync Complete. Time: 00:00:00, Speed: 0 bytes/s, OK: 5, Errors: 0
+2021-08-24 21:48:12: 
