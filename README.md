@@ -100,3 +100,18 @@
 
 #### 4.4 - Considerações conclusivas
 
+## __Aula 10__
+
+### [Capítulo 4 - Distribuições de valores extremos - Parte 1](https://nbviewer.jupyter.org/github/mvreal/Confiabilidade-em-Engenharia/blob/master/Capitulo_5-1.ipynb)
+
+#### 5.1 - Introdução
+
+#### 5.2 - Distribuições exatas
+
+#### 5.3 - Distribuições assintóticas
+
+#### 5.4 - Parâmetros das distribuições de valores extremos
+
+
+
+
