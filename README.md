@@ -102,7 +102,7 @@
 
 ## __Aula 10__
 
-### [Capítulo 4 - Distribuições de valores extremos - Parte 1](https://nbviewer.jupyter.org/github/mvreal/Confiabilidade-em-Engenharia/blob/master/Capitulo_5-1.ipynb)
+### [Capítulo 5 - Distribuições de valores extremos - Parte 1](https://nbviewer.jupyter.org/github/mvreal/Confiabilidade-em-Engenharia/blob/master/Capitulo_5-1.ipynb)
 
 #### 5.1 - Introdução
 
