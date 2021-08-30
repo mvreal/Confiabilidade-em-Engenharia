@@ -98,3 +98,5 @@
 
 #### 4.3 - Momentos de uma função de variável aleatória
 
+#### 4.4 - Considerações conclusivas
+
