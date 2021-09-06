@@ -113,5 +113,24 @@
 #### 5.4 - Parâmetros das distribuições de valores extremos
 
 
+## __Aula 11_
+
+### [Capítulo 6 - Simulação Numérica e o Método de Monte Carlo - Parte 1](https://nbviewer.jupyter.org/github/mvreal/Confiabilidade-em-Engenharia/blob/master/Capitulo_6-1.ipynb)
+
+#### 6.1 - Introdução
+
+#### 6.2 - O essencial do Método de Simulações de Monte Carlo
+
+#### 6.3 - Geração de números aleatórios 
+
+#### 6.4 - Determinação da probabilidade de falha através do Método de Monte Carlo
+
+#### 6.5 - Aplicações do Método de Monte Carlo
+
+#### 6.6 - Técnicas de redução de variância
+
+#### 6.7 - Amostragem por importância
+
+
 
 
