@@ -113,7 +113,7 @@
 #### 5.4 - Parâmetros das distribuições de valores extremos
 
 
-## __Aula 11_
+## __Aula 11__
 
 ### [Capítulo 6 - Simulação Numérica e o Método de Monte Carlo - Parte 1](https://nbviewer.jupyter.org/github/mvreal/Confiabilidade-em-Engenharia/blob/master/Capitulo_6-1.ipynb)
 
