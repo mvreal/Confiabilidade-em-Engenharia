@@ -1,0 +1,15 @@
+2021-09-09 22:55:09: -- Analysis Started by Analyze And Sync All
+2021-09-09 22:55:09: Changes: 8, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 233
+2021-09-09 22:55:09: Left to Right: Copy File: 8 
+2021-09-09 22:55:09: == Sync Started by Analyze And Sync All
+2021-09-09 22:55:09: Copy Over 'F:/CE/.ipynb_checkpoints/Capitulo_6-1-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Capitulo_6-1-checkpoint.ipynb'
+2021-09-09 22:55:09: Copy Over 'F:/CE/Capitulo_3-2.ipynb' -> 'Q:/CEO/Capitulo_3-2.ipynb'
+2021-09-09 22:55:09: Copy Over 'F:/CE/Capitulo_3-3.ipynb' -> 'Q:/CEO/Capitulo_3-3.ipynb'
+2021-09-09 22:55:09: Copy Over 'F:/CE/Capitulo_4-1.ipynb' -> 'Q:/CEO/Capitulo_4-1.ipynb'
+2021-09-09 22:55:09: Copy Over 'F:/CE/Capitulo_4-2.ipynb' -> 'Q:/CEO/Capitulo_4-2.ipynb'
+2021-09-09 22:55:09: Copy Over 'F:/CE/Capitulo_5-1.ipynb' -> 'Q:/CEO/Capitulo_5-1.ipynb'
+2021-09-09 22:55:09: Copy Over 'F:/CE/Capitulo_6-1.ipynb' -> 'Q:/CEO/Capitulo_6-1.ipynb'
+2021-09-09 22:55:09: Copy New 'F:/CE/images6/transformacao_inversa.jpg' -> 'Q:/CEO/images6/transformacao_inversa.jpg'
+2021-09-09 22:55:09: Deleted Recycled: Q:/CEO/_gsdata_/_saved_/Capítulo 3.pdf
+2021-09-09 22:55:09: == Sync Complete. Time: 00:00:00, Speed: 0 bytes/s, OK: 8, Errors: 0
+2021-09-09 22:55:09: 
