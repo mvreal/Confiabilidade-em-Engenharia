@@ -1,0 +1,11 @@
+2021-09-10 19:56:48: -- Analysis Started by Analyze And Sync All
+2021-09-10 19:56:48: Changes: 5, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 235
+2021-09-10 19:56:48: Left to Right: Copy File: 5 
+2021-09-10 19:56:48: == Sync Started by Analyze And Sync All
+2021-09-10 19:56:48: Copy Over 'F:/CE/.ipynb_checkpoints/Capitulo_6-1-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Capitulo_6-1-checkpoint.ipynb'
+2021-09-10 19:56:48: Copy Over 'F:/CE/Capitulo_3-1.ipynb' -> 'Q:/CEO/Capitulo_3-1.ipynb'
+2021-09-10 19:56:48: Copy Over 'F:/CE/Capitulo_6-1.ipynb' -> 'Q:/CEO/Capitulo_6-1.ipynb'
+2021-09-10 19:56:48: Copy New 'F:/CE/images6/funcao_performance.jpg' -> 'Q:/CEO/images6/funcao_performance.jpg'
+2021-09-10 19:56:48: Copy New 'F:/CE/images6/grupo_estacas.jpg' -> 'Q:/CEO/images6/grupo_estacas.jpg'
+2021-09-10 19:56:48: == Sync Complete. Time: 00:00:00, Speed: 0 bytes/s, OK: 5, Errors: 0
+2021-09-10 19:56:48: 
