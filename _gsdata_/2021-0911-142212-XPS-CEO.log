@@ -1,0 +1,9 @@
+2021-09-11 14:22:12: -- Analysis Started by Analyze And Sync All
+2021-09-11 14:22:13: Changes: 3, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 236
+2021-09-11 14:22:13: Left to Right: Copy File: 3 
+2021-09-11 14:22:13: == Sync Started by Analyze And Sync All
+2021-09-11 14:22:13: Copy Over 'F:/CE/.ipynb_checkpoints/Capitulo_6-1-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Capitulo_6-1-checkpoint.ipynb'
+2021-09-11 14:22:13: Copy Over 'F:/CE/Capitulo_6-1.ipynb' -> 'Q:/CEO/Capitulo_6-1.ipynb'
+2021-09-11 14:22:13: Copy New 'F:/CE/images6/deslocamento_plataforma.jpg' -> 'Q:/CEO/images6/deslocamento_plataforma.jpg'
+2021-09-11 14:22:13: == Sync Complete. Time: 00:00:00, Speed: 0 bytes/s, OK: 3, Errors: 0
+2021-09-11 14:22:13: 
