@@ -1,0 +1,8 @@
+2021-09-17 20:27:55: -- Analysis Started by Analyze And Sync All
+2021-09-17 20:27:55: Changes: 2, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 236
+2021-09-17 20:27:55: Left to Right: Copy File: 2 
+2021-09-17 20:27:55: == Sync Started by Analyze And Sync All
+2021-09-17 20:27:55: Copy Over 'F:/CE/.ipynb_checkpoints/Capitulo_6-1-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Capitulo_6-1-checkpoint.ipynb'
+2021-09-17 20:27:56: Copy Over 'F:/CE/Capitulo_6-1.ipynb' -> 'Q:/CEO/Capitulo_6-1.ipynb'
+2021-09-17 20:27:56: == Sync Complete. Time: 00:00:01, Speed: 405 KB/s, OK: 2, Errors: 0
+2021-09-17 20:27:56: 
