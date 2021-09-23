@@ -127,9 +127,7 @@
 
 #### 6.5 - Aplicações do Método de Monte Carlo
 
-#### 6.6 - Técnicas de redução de variância
-
-#### 6.7 - Amostragem por importância
+#### 6.6 - Amostragem por importância
 
 
 
