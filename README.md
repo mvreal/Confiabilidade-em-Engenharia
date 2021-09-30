@@ -130,5 +130,12 @@
 #### 6.6 - Amostragem por importância
 
 
+## __Aula 12__
 
+### [Capítulo 7 - Confiabilidade e Projeto baseado em Confiabilidade - Parte 1](https://nbviewer.jupyter.org/github/mvreal/Confiabilidade-em-Engenharia/blob/master/Capitulo_7-1.ipynb)
 
+#### 7.1 - Confiabilidade em projetos de Engenharia 
+
+#### 7.2 – Análise e avaliação da Confiabilidade
+
+#### 7.3 – Critérios de projeto baseados em Probabilidade

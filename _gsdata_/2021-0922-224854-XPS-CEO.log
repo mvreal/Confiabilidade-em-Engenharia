@@ -1,0 +1,16 @@
+2021-09-22 22:48:54: -- Analysis Started by Analyze And Sync All
+2021-09-22 22:48:54: Changes: 10, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 240
+2021-09-22 22:48:54: Left to Right: Copy File: 10 
+2021-09-22 22:48:54: == Sync Started by Analyze And Sync All
+2021-09-22 22:48:54: Create Folder 'Q:/CEO/images4/.ipynb_checkpoints'
+2021-09-22 22:48:54: Copy Over 'F:/CE/.ipynb_checkpoints/Capitulo_5-1-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Capitulo_5-1-checkpoint.ipynb'
+2021-09-22 22:48:54: Copy Over 'F:/CE/.ipynb_checkpoints/Capitulo_6-1-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Capitulo_6-1-checkpoint.ipynb'
+2021-09-22 22:48:54: Copy Over 'F:/CE/Capitulo_1-2.ipynb' -> 'Q:/CEO/Capitulo_1-2.ipynb'
+2021-09-22 22:48:54: Copy Over 'F:/CE/Capitulo_5-1.ipynb' -> 'Q:/CEO/Capitulo_5-1.ipynb'
+2021-09-22 22:48:54: Copy Over 'F:/CE/Capitulo_6-1.ipynb' -> 'Q:/CEO/Capitulo_6-1.ipynb'
+2021-09-22 22:48:54: Copy New 'F:/CE/images4/.ipynb_checkpoints/Capitulo_4-2-checkpoint.ipynb' -> 'Q:/CEO/images4/.ipynb_checkpoints/Capitulo_4-2-checkpoint.ipynb'
+2021-09-22 22:48:54: Copy New 'F:/CE/images4/Capitulo_4-2.ipynb' -> 'Q:/CEO/images4/Capitulo_4-2.ipynb'
+2021-09-22 22:48:54: Copy New 'F:/CE/images6/tensioned_bar.jpg' -> 'Q:/CEO/images6/tensioned_bar.jpg'
+2021-09-22 22:48:54: Copy Over 'F:/CE/README.md' -> 'Q:/CEO/README.md'
+2021-09-22 22:48:55: == Sync Complete. Time: 00:00:01, Speed: 0 bytes/s, OK: 10, Errors: 0
+2021-09-22 22:48:55: 
