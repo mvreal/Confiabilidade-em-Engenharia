@@ -1,0 +1,13 @@
+2021-10-01 19:39:15: -- Analysis Started by Analyze And Sync All
+2021-10-01 19:39:15: Changes: 7, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 247
+2021-10-01 19:39:15: Left to Right: Copy File: 7 
+2021-10-01 19:39:15: == Sync Started by Analyze And Sync All
+2021-10-01 19:39:15: Create Folder 'Q:/CEO/images7'
+2021-10-01 19:39:15: Copy Over 'F:/CE/Capitulo_1-1.ipynb' -> 'Q:/CEO/Capitulo_1-1.ipynb'
+2021-10-01 19:39:15: Copy Over 'F:/CE/Capitulo_7-1.ipynb' -> 'Q:/CEO/Capitulo_7-1.ipynb'
+2021-10-01 19:39:15: Copy New 'F:/CE/images7/distancia.jpg' -> 'Q:/CEO/images7/distancia.jpg'
+2021-10-01 19:39:15: Copy New 'F:/CE/images7/joint_pdf.jpg' -> 'Q:/CEO/images7/joint_pdf.jpg'
+2021-10-01 19:39:15: Copy New 'F:/CE/images7/padronizada.jpg' -> 'Q:/CEO/images7/padronizada.jpg'
+2021-10-01 19:39:15: Copy New 'F:/CE/images7/superficie_de_falha.jpg' -> 'Q:/CEO/images7/superficie_de_falha.jpg'
+2021-10-01 19:39:15: == Sync Complete. Time: 00:00:00, Speed: 0 bytes/s, OK: 7, Errors: 0
+2021-10-01 19:39:15: 
