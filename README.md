@@ -145,4 +145,4 @@
 
 #### 7.3 – Algorítimo de Hasofer-Lind-Rackwitz-Fiessler (HRLF)
 
-#### 7.2 – Método de Confiabilidade Primeira Ordem (FORM)
+#### 7.4 – Método de Confiabilidade Primeira Ordem (FORM)
