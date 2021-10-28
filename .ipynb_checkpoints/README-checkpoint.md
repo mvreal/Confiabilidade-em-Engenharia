@@ -136,13 +136,6 @@
 
 #### 7.1 - Confiabilidade em projetos de Engenharia 
 
-#### 7.2 – Método de Primeira Ordem e Segundo Momento (FOSM)
+#### 7.2 – Análise e avaliação da Confiabilidade
 
-## __Aula 13__
-
-### [Capítulo 7 - Confiabilidade e Projeto baseado em Confiabilidade - Parte 2](https://nbviewer.jupyter.org/github/mvreal/Confiabilidade-em-Engenharia/blob/master/Capitulo_7-2.ipynb)
-
-
-#### 7.3 – Algorítimo de Hasofer-Lind-Rackwitz-Fiessler (HRLF)
-
-#### 7.2 – Método de Confiabilidade Primeira Ordem (FORM)
+#### 7.3 – Critérios de projeto baseados em Probabilidade

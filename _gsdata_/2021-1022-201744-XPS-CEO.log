@@ -1,0 +1,15 @@
+2021-10-22 20:17:44: -- Analysis Started by Analyze And Sync All
+2021-10-22 20:17:44: Changes: 5, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 254
+2021-10-22 20:17:44: Left to Right: Copy File: 5 
+2021-10-22 20:17:44: == Sync Started by Analyze And Sync All
+2021-10-22 20:17:44: Copy Over 'F:/CE/.ipynb_checkpoints/Capitulo_7-1-checkpoint.ipynb' -> 'Q:/CEO/.ipynb_checkpoints/Capitulo_7-1-checkpoint.ipynb'
+2021-10-22 20:17:44: Copy Over 'F:/CE/Capitulo_7-1.ipynb' -> 'Q:/CEO/Capitulo_7-1.ipynb'
+2021-10-22 20:17:44: Copy New 'F:/CE/images7/aproximacao_linear.jpg' -> 'Q:/CEO/images7/aproximacao_linear.jpg'
+2021-10-22 20:17:44: Copy New 'F:/CE/images7/concava_convexa.jpg' -> 'Q:/CEO/images7/concava_convexa.jpg'
+2021-10-22 20:17:44: Copy New 'F:/CE/images7/momento_plastico.jpg' -> 'Q:/CEO/images7/momento_plastico.jpg'
+2021-10-22 20:17:45: Deleted Recycled: Q:/CEO/_gsdata_/_saved_/Capitulo_4-1.ipynb
+2021-10-22 20:17:45: Deleted Recycled: Q:/CEO/_gsdata_/_saved_/Capitulo_3-1.ipynb
+2021-10-22 20:17:45: Deleted Recycled: Q:/CEO/_gsdata_/_saved_/Capitulo_3-2.ipynb
+2021-10-22 20:17:45: Deleted Recycled: Q:/CEO/_gsdata_/_saved_/Capitulo_3-3.ipynb
+2021-10-22 20:17:45: == Sync Complete. Time: 00:00:01, Speed: 0 bytes/s, OK: 5, Errors: 0
+2021-10-22 20:17:45: 
