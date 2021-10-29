@@ -143,6 +143,6 @@
 ### [Capítulo 7 - Confiabilidade e Projeto baseado em Confiabilidade - Parte 2](https://nbviewer.jupyter.org/github/mvreal/Confiabilidade-em-Engenharia/blob/master/Capitulo_7-2.ipynb)
 
 
-#### 7.3 – Algorítimo de Hasofer-Lind-Rackwitz-Fiessler (HRLF)
+#### 7.3 – Algoritmo de Hasofer-Lind-Rackwitz-Fiessler (HRLF)
 
 #### 7.4 – Método de Confiabilidade Primeira Ordem (FORM)
