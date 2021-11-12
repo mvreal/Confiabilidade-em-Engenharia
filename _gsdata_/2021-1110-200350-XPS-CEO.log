@@ -1,0 +1,13 @@
+2021-11-10 20:03:50: -- Analysis Started by Analyze And Sync All
+2021-11-10 20:03:50: Changes: 1, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 257
+2021-11-10 20:03:50: Left to Right: Copy File: 1 
+2021-11-10 20:03:50: == Sync Started by Analyze And Sync All
+2021-11-10 20:03:50: Copy Over 'F:/CE/Capitulo_7-2.ipynb' -> 'Q:/CEO/Capitulo_7-2.ipynb'
+2021-11-10 20:03:50: Deleted Recycled: Q:/CEO/_gsdata_/_saved_/.ipynb_checkpoints/Capitulo_5-1-checkpoint.ipynb
+2021-11-10 20:03:50: Deleted Recycled: Q:/CEO/_gsdata_/_saved_/Capitulo_1-1.ipynb
+2021-11-10 20:03:50: Deleted Recycled: Q:/CEO/_gsdata_/_saved_/Capitulo_5-1.ipynb
+2021-11-10 20:03:50: Deleted Recycled: Q:/CEO/_gsdata_/_saved_/.ipynb_checkpoints/Capitulo_4-2-checkpoint.ipynb
+2021-11-10 20:03:50: Deleted Recycled: Q:/CEO/_gsdata_/_saved_/Capitulo_4-2.ipynb
+2021-11-10 20:03:50: Deleted Recycled: Q:/CEO/_gsdata_/_saved_/images7/distancia.jpg
+2021-11-10 20:03:50: == Sync Complete. Time: 00:00:00, Speed: 0 bytes/s, OK: 1, Errors: 0
+2021-11-10 20:03:50: 
