@@ -152,10 +152,11 @@
 
 ### [Capítulo 7 - Confiabilidade e Projeto baseado em Confiabilidade - Parte 3](https://nbviewer.jupyter.org/github/mvreal/Confiabilidade-em-Engenharia/blob/master/Capitulo_7-3.ipynb)
 
+#### 7.5 – Algoritmo de Hasofer-Lind-Rackwitz-Fiessler  melhorado (iHRLF)
 
-#### 7.5 – Variáveis aleatórias correlacionadas 
+#### 7.6 – Variáveis aleatórias correlacionadas 
 
-#### 7.6 – Algoritmo de Hasofer-Lind-Rackwitz-Fiessler  melhorado (iHRLF)
+
 
 ## __Aula 15__
 
