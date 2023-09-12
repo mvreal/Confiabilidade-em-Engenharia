@@ -1,6 +1,4 @@
 cd..
 cd..
-cd..
-d:
-cd d:\CE
+cd C:\Users\Mauro\OneDrive\CE
 C:\Users\Mauro\anaconda3\Scripts\jupyter-lab
